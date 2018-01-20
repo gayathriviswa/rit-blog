@@ -1,0 +1,2 @@
+# rit-blog
+blog
